@@ -1,1 +1,2 @@
-gygygo
+def pippo(data):
+    print(data)
